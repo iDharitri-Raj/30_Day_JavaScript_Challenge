@@ -88,7 +88,7 @@ console.log(obj2, typeof obj2)
 let arr2 = [97, 88, 79, 61, 52]
 console.log(arr2, typeof arr2)
 
-// 2. Raeassignment Demo : Create a script that demonstrates the difference in behavior between 'let' and 'const' when it comes to reassignment.
+// 2. Reassignment Demo : Create a script that demonstrates the difference in behavior between 'let' and 'const' when it comes to reassignment.
 
 let no = 106
 no = 34
