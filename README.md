@@ -38,6 +38,7 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 
 -  Variable and Data types
 -  Operators
+-  Control Structures
 
 
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
