@@ -41,6 +41,7 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 -  Control Structures
 -  Loops
 -  Functions
+-  Arrays
 
 
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
