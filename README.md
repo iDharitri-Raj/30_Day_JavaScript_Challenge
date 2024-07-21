@@ -44,7 +44,7 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 -  Arrays
 -  Objects
 -  ES6+ Features
-
+-  DOM Manipulation
 
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
 
