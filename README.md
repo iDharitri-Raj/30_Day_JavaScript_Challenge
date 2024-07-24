@@ -47,6 +47,7 @@ Throughout this challenge, we'll cover a wide range of JavaScript topics, includ
 -  DOM Manipulation
 -  Event Handling
 -  Promises and Async : Await
+-  Error Handling
 
 Let's dive in and make the next 30 days count! Happy coding! 🎉👩‍💻👨‍💻
 
